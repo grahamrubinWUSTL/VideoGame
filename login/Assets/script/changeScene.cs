@@ -6,7 +6,7 @@ public class changeScene : MonoBehaviour
 {
 
 	void OnTriggerEnter2D(Collider2D other){
-    	
+    	print("he");
     	if(other.CompareTag("Player")) {
 
     		SceneManager.LoadScene(1);
