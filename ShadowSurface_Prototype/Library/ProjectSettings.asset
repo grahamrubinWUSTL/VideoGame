@@ -591,7 +591,10 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
     Collab: 1
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -612,9 +615,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 1af20077-2b8d-4559-a75e-3e4ddfe55f73
+  cloudProjectId: 0adc4e32-4daa-41b7-bbec-65954f9fd5d2
   framebufferDepthMemorylessMode: 0
-  projectName: 450Q3_YaoYiheng
+  projectName: ShadowSurface
   organizationId: 2a827cd-31c4-45d2-a473-985b9581f1ce
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
